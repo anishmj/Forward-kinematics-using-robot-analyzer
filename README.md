@@ -58,12 +58,12 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  ### PLOT :
  
  
- #### 4DOF
+ ### 4DOF
 
  ![image](https://user-images.githubusercontent.com/75235402/199652300-d23d83d2-b6d0-4c80-a1ea-8f0896b780e4.png)
 
  
-  #### 6DOF
+  ### 6DOF
  
  
  ![image](https://user-images.githubusercontent.com/75235402/199652662-8b3f95c0-58c6-45eb-ad2c-fc45f65bd529.png)
